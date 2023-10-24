@@ -4,17 +4,32 @@ subtitle: "Heidi Baumann"
 image: Foto_Heidi.jpg
 about:
   template: trestles
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/hebauman
 format:
   html:
     toc: false
 ---
 
-About this site
 
-## Heading A
-## Heading B
+## About
+Heidi Baumann is a doctoral student at the Federal Institute of Technology Zurich (ETH), at the chair of Planning of Landscape and Urban Systems (PLUS). In her free time, Heidi enjoys dancing salsa.
 
-```{r}
-1 + 1
-```
 
+## Education
+
+University of Zurich | Switzerland
+
+MSc in Geography | Sept 2017 - Dec 2019
+
+University of Fribourg | Switzerland
+
+BA in Social Work and Social Politics | Sept 2014 - Aug 2017
+
+## Experience
+
+ETH Zurich | Doctoral Student | Nov 2021 - present
+
+City of Zurich | Intern | Spet 2012 - April 2018
